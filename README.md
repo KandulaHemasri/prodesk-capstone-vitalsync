@@ -77,6 +77,7 @@ It enables:
 👉 **Figma Link:**  
 "https://www.figma.com/design/IRG8rYsGnfYhEn5lSte2A9/vital-sync?node-id=0-1&p=f&m=draw"
 
+## There are 3 pages of ERD diagrams in thins link check it
 ** ERD diagram Link of draw.io ** 
 "https://app.diagrams.net/?src=about#G1Av-oUclB-SmdHkLTdu2Y85-ANU6Hfafd#%7B%22pageId%22%3A%22OM7xYufYS4i0jENYuRax%22%7D"
 
